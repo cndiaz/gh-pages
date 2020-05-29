@@ -6,4 +6,4 @@ Summer 2019 in Japan was by far my _favorite_ vacation. I spent 4 days in Kyoto 
 2. Wear comfy shoes
 3. Bring a small bag or pack to haul your trash
 
-! [Tori Gates] (https://unsplash.com/photos/NYyCqdBOKwc)
+![Tori Gates](https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)
